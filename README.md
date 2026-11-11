@@ -25,7 +25,7 @@ Software engineer with 6+ years building **data-rich products, design systems an
 
 #### Toolkit
 
-**Frontend:** TypeScript · React · Next.js · Tailwind · D3 · three.js / React Three Fiber · GLSL · Web Animations · Web Audio
+**Frontend:** TypeScript · React · Next.js · Tailwind · D3 · three.js / React Three Fiber · GLSL · Web Animations · Web Audio · MUI · Storybook
 
 **Backend:** Node.js · Python / Django · PostgreSQL · REST & GraphQL · Cloudflare Workers
 
