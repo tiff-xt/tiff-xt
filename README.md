@@ -26,8 +26,11 @@ Software engineer with 6+ years building **data-rich products, design systems an
 #### Toolkit
 
 **Frontend:** TypeScript · React · Next.js · Tailwind · D3 · three.js / React Three Fiber · GLSL · Web Animations · Web Audio
+
 **Backend:** Node.js · Python / Django · PostgreSQL · REST & GraphQL · Cloudflare Workers
+
 **AI:** LLM integration · retrieval (pgvector) · structured outputs · evals and guardrails
+
 **Quality:** Playwright · Vitest / Jest · Testing Library · CI/CD · accessibility (WCAG)
 
 📫 Say hi through the [portfolio](https://tiff-xt.vercel.app/), or open an issue on any project.
