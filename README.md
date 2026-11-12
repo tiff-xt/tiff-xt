@@ -1,6 +1,6 @@
 ### Hi, I'm Tiff 👋
 
-Full-stack software engineer with 6+ years building **data-rich products end to end**: the interfaces and design systems people use, the APIs, databases and background systems behind them, and AI features on top. I take things from the first sketch to production, with a design eye and a habit of measuring what I build.
+Full-stack software engineer with 6+ years building **data-rich products end to end**: the interfaces and design systems people use, the APIs, databases and background systems behind them, and AI features on top. A full-stack engineer who designs: I care as much about how a product feels to use as how it holds up under load.
 
 **Portfolio:** [tiff-xt.vercel.app](https://tiff-xt.vercel.app/) · read the case studies, or ask its assistant anything about how I work.
 
@@ -21,7 +21,7 @@ Full-stack software engineer with 6+ years building **data-rich products end to 
 #### How I work
 
 - **Own the whole problem**, from an incomplete idea through architecture, release and the debugging after.
-- **The unglamorous states are the design:** loading, empty, error, offline and reduced motion are engineering decisions.
+- **Details on both sides of the screen:** I sweat the ones users notice, such as spacing, motion and empty states, as much as the ones they never see, such as queries, queues and failure modes.
 - **AI is an accelerator, not an authority:** structured outputs, deterministic rules around the model, and UI that shows what happened.
 
 #### Toolkit
