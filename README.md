@@ -1,6 +1,6 @@
 ### Hi, I'm Tiff 👋
 
-Software engineer with 6+ years building **data-rich products, design systems and AI features**, from the first sketch to production. Frontend at the core, comfortable across the stack, and known for a design eye.
+Full-stack software engineer with 6+ years building **data-rich products end to end**: the interfaces and design systems people use, the APIs, databases and background systems behind them, and AI features on top. I take things from the first sketch to production, with a design eye and a habit of measuring what I build.
 
 **Portfolio:** [tiff-xt.vercel.app](https://tiff-xt.vercel.app/) · read the case studies, or ask its assistant anything about how I work.
 
