@@ -10,7 +10,7 @@ Full-stack software engineer with 6+ years building **data-rich products end to 
 
 | | Project | What it shows |
 |---|---|---|
-| 🎟️ | **[lobbyd](https://lobbyd.vercel.app)** · [code](https://github.com/tiff-xt/lobbyd) | Backend and system design: a ticketing platform for gaming tournaments built around the minute a sale opens. Seats that cannot be sold twice, payments that survive a misbehaving provider, a waiting room, offline ticket scanning and live brackets, on FastAPI, Postgres and Redis. Load tested, with the numbers published. |
+| 🎟️ | **[lobbyd](https://lobbyd.vercel.app)** · [code](https://github.com/tiff-xt/lobbyd) | Backend, system design and AI agents: a ticketing platform for gaming tournaments built around the minute a sale opens. Seats that cannot be sold twice, payments that survive a misbehaving provider, a waiting room, offline ticket scanning and live brackets, on FastAPI, Postgres and Redis. An AI agent operates it through its own API, with human approval before any change and scenario evals to measure it. Load tested, with the numbers published. |
 | 🧬 | **[Helix Workspace](https://tiff-xt.github.io/helix-workspace/)** · [code](https://github.com/tiff-xt/helix-workspace) | Product design for dense scientific data: a 2,400-point interactive volcano plot, failure-aware workflows, a structured AI assistant, and a design system that tests its own accessibility. |
 | 🏫 | **[AI Front Desk](https://tiff-xt.github.io/ai-front-desk/)** · [code](https://github.com/tiff-xt/ai-front-desk) | AI that never computes a fact: deterministic policy code answers, the LLM only classifies and translates, and a guard rejects any number or date it can't back up. Golden-question evals block deploys. |
 | 🪐 | **[Orbital](https://orbital-by-tiff.vercel.app)** · [code](https://github.com/tiff-xt/orbital) | Graphics programming: one hand-written GLSL shader renders a ray-marched planet, a seeded identity per visitor, audio reactivity and warp page transitions. |
@@ -30,7 +30,7 @@ Full-stack software engineer with 6+ years building **data-rich products end to 
 
 **Backend:** Python / FastAPI / Django · Node.js · PostgreSQL · Redis · REST & GraphQL · queues and background workers · Cloudflare Workers
 
-**AI:** LLM integration · retrieval (pgvector) · structured outputs · evals and guardrails
+**AI:** LLM integration · agents with tool calling and human approval · retrieval (pgvector) · structured outputs · evals and guardrails
 
 **Quality:** Playwright · Vitest / Jest · pytest · Testing Library · load testing · CI/CD · observability (Prometheus, OpenTelemetry) · accessibility (WCAG)
 
