@@ -34,4 +34,4 @@ Full-stack software engineer with 6+ years building **data-rich products end to 
 
 **Quality:** Playwright · Vitest / Jest · pytest · Testing Library · load testing · CI/CD · observability (Prometheus, OpenTelemetry) · accessibility (WCAG)
 
-📫 Say hi through the [portfolio](https://tiff-xt.vercel.app/), or open an issue on any project.
+📫 Say hi on [LinkedIn](https://www.linkedin.com/in/tiffanytranx/) or through the [portfolio](https://tiff-xt.vercel.app/).
